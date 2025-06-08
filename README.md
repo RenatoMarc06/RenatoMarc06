@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudante de engenharia eletrônica na Universidade Tecnológica Federal do Paraná
 - 🌱 Estudando atualmente: Python
-- ⚡ Fato divertido: gosto muito RPG de mesa e de tereré
+- ⚡ Fato divertido: gosto muito de RPG de mesa e de tereré
 
 <picture>
   <source
