@@ -1,8 +1,8 @@
-## Oi! Eu sou o Renato.
+## Hey There! I am Renato.
 
-- 🔭 Atualmente estudante de engenharia eletrônica na Universidade Tecnológica Federal do Paraná
-- 🌱 Estudando atualmente: Python
-- ⚡ Fato divertido: gosto muito de RPG de mesa e de tereré
+- 🔭 Currently I am studying to become an eletronic engineer at Federal Technological University of Paraná. 
+- 🌱 Recent Study: C for low level programming.
+- ⚡ Fun Fact: I am a huge fan and player of JRPG's.
 
 <picture>
   <source
